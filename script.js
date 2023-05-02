@@ -32,3 +32,5 @@ document.querySelector("body").addEventListener("keydown", (event) => {
     });
   }
 });
+
+//git branch => see all the branches
